@@ -6,3 +6,8 @@ To play:
 4. Click start to play, reset to reset to an empty board with score = 0
 
 Have fun and thanks for checking it out
+
+
+
+--Version History--
+v1.0 - Initial Release
